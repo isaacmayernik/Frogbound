@@ -11,7 +11,7 @@ You can also run the WebGL Build [here](https://play.unity.com/en/games/f78ac303
 
 ### How to Play
 ---
-In Frogbound, players will need to use everything at their disposal to beat the game. Below are the default controls:
+# In Frogbound, players will need to use everything at their disposal to beat the game. Below are the default controls:
 ---
 -	A Key: Move left
 -	D Key: Move right
