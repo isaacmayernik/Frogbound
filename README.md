@@ -3,7 +3,7 @@ Frogbound is a 2D Metroidvania where players explore a cave with various enemies
 
 ### This repo contains different builds for Frogbound, developed by Isaac Mayernik.
  
-Inside the Windows Build folder is the 64-bit installer and the full build folder. Please just use the installer, it is much easier.
+Inside the Windows Build folder is the 64-bit installer and the full build folder. Downloading the "Frogbound Setup (x86).exe" is much easier.
 
 Inside the WebGL Build is the folder to run on a web browser.
 
