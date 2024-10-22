@@ -1,9 +1,8 @@
 # Frogbound
 Frogbound is a 2D Metroidvania where players explore a cave with various enemies such as a beetle, fly, and worm. Along the way, they may come across an upgrade they may help them evade enemy attacks. Players will reach a point where they must defeat a boss, King Diptera, king of the flies. King Diptera will summon enemies and charge around the arena until it becomes dazed. While dazed, players may attack the boss until it runs out of health. Defeating the boss rewards a health upgrade and access to a new area, the ruins. There they may explore, fight more enemies, and receive an upgrade.
 
----
 ### Here you can download the different builds for Frogbound, developed by Isaac Mayernik.
----
+ 
 Inside the Windows Build folder is the 64-bit installer.
 Inside the WebGL Build is the folder to run on a web browser.
 You can also run the WebGL Build [here](https://play.unity.com/en/games/f78ac303-ffe3-4365-af64-51f3f8935678/frogbound-webgl-build).
