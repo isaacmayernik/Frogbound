@@ -26,7 +26,8 @@ In Frogbound, players will need to use everything at their disposal to beat the 
 ---
 
 ### Winning and Losing
-For the player to win, they must defeat King Diptera, the fly boss. Players are rewarded with a health upgrade upon defeating it and may access the next area, the ruins. This is the end of the game, and players will see an end screen when they reach a certain point.
+For the player to win, they must defeat King Diptera, the fly boss. Defeating the boss rewards players with a health upgrade and access to the next area, the ruins. This is the end of the game, and players will see an end screen when they reach a certain point.
+
 To lose, players must die during combat by reaching zero hearts. Death is not permanent, as players will respawn at their last save. Thus, players can learn from their mistakes and try again.
 
 ---
