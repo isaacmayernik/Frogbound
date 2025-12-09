@@ -7,6 +7,8 @@ Inside the Windows Build folder is the 64-bit installer and the full build folde
 
 Inside the WebGL Build is the folder to run on a web browser.
 
+Or, visit the Itch.io page [here](https://isaacmayernik.itch.io/frogbound).
+
 You can also run the WebGL Build [here](https://play.unity.com/en/games/f78ac303-ffe3-4365-af64-51f3f8935678/frogbound-webgl-build).
 
 ---
